@@ -23,6 +23,38 @@ image: "img/home-bg.jpg"
 <hr>
 {% endfor %}
 
+<div class="lectures">
+	<h2>
+		Lectures slides
+	</h2>
+	<ol>
+		<li>
+			<a href="/slides/1.pdf">Introduction</a>
+		</li>
+	</ol>
+</div>
+
+<hr>
+
+<div class="lectures">
+	<h2>
+		Laboratories instructions
+	</h2>
+	<ol>
+		<li>
+			<a href="/labs/1.pdf">Introduction</a>
+		</li>
+	</ol>
+</div>
+
+<hr>
+
+<div>
+	<a href="/OpenVPN.pdf">
+		OpenVPN Connection instructions
+	</a>
+</div>
+
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
@@ -38,4 +70,3 @@ image: "img/home-bg.jpg"
 	{% endif %}
 </ul>
 {% endif %}
-

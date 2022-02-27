@@ -70,6 +70,10 @@ h6 {
     color: rgba(83, 40, 79, 0.8);
 }
 
+.lectures h2 {
+  color: rgba(83, 40, 79, 0.8);
+}
+
 .pager li > a:hover,
 .pager li > a:focus {
     color: white;
