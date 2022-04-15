@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Organization Summer semester 2021/2022"
+title:  "Summer semester 2021/2022"
 date:   2022-02-25 13:30:00 +0100
 author: Damian Bodnar <damian.bodnar@rtbhouse.com>
 image: "img/home-bg.jpg"
